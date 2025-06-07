@@ -1,0 +1,8 @@
+Flask==3.1.1
+flask_cors==6.0.0
+flask_sock==0.7.0
+mediapipe==0.10.9
+numpy==2.0.2
+opencv_contrib_python==4.11.0.86
+torch==2.7.0
+Werkzeug==3.1.3
